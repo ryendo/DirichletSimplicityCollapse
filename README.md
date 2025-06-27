@@ -86,7 +86,7 @@ By showing that the upper bound for `μ₂ᵗ` is strictly less than the lower b
     git clone <repository-url>
     ```
 2.  **Install INTLAB:**
-      * Download INTLAB from the [INTLAB website](https://www.google.com/search?q=http://www.tuhh.de/ti3/intlab/).
+      * Download INTLAB from the [INTLAB website](https://www.tuhh.de/ti3/rump/intlab/).
       * Unpack the toolbox into the project's root directory. The configuration script expects it to be in a folder named `Intlab_V12`.
 3.  **Configure the project:**
       * Open MATLAB and navigate to the project directory.
